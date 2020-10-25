@@ -27,14 +27,12 @@ npm init
 and installing required packages:
 
 ```yml
-yarn init
 yarn add -D @nomiclabs/buidler @nomiclabs/buidler-waffle ethereum-waffle chai @nomiclabs/buidler-ethers ethers
 ```
 
 or
 
 ```yml
-npm init
 npm install -D @nomiclabs/buidler @nomiclabs/buidler-waffle ethereum-waffle chai @nomiclabs/buidler-ethers ethers
 ```
 
